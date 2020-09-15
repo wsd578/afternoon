@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is only be in a master branch
+=======
+this is text in branch
+>>>>>>> b
